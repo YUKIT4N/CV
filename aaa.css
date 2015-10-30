@@ -1,0 +1,104 @@
+
+
+.container {
+  width: 800px;
+}
+.header {
+  background-color: rgb(255, 255, 255, 0.95);
+  border-bottom: 1px solid blue;
+ font-family: "Times New Roman", Georgia, Serif;
+  font-weight: 300;
+  
+  font-size: 24px;
+  padding: 15px;
+}
+.header .menu {
+  float: right;
+  list-style: none;
+  margin-top: 15px;
+}
+
+.menu > li {
+  display: inline;
+  padding-left: 30px;
+  padding-right: 30px;
+}
+.dropdown-menu {
+  font-size: 16px;
+  margin-top: 15px;
+  min-width: 105px;
+}
+.dropdown-menu li a {
+  color: blue;
+   background-color: #E3E7E6;
+   
+  padding: 10px 30px;
+  font-weight: 100;
+}
+a{
+text-decoration:none;
+}
+.text-center {
+padding-top:200px;
+font-size:60px;
+color:white;
+}
+.rytm{
+text-decoration:blink;
+text-align:center;
+padding-top:180px;
+color:white;
+}
+.rytma{
+text-decoration:blink;
+text-align:center;
+padding-top:120px;
+color:white;
+}
+.rytmaa{
+text-decoration:blink;
+text-align:center;
+padding-top:100px;
+color:white;
+}
+.rytm .tutaj {
+color: #966b72;
+font-family: Georgia, “Times New Roman”, Times, serif ;
+font-size:40px;
+}
+.rytm .range{
+font-family:italic;
+font-size: 40px;
+}
+.rytmaa .tak{
+color: #966b72;
+font-family: Georgia, “Times New Roman”, Times, serif ;
+font-size: 40px;
+}
+.rytmaa .drugi{
+font-family:italic;
+font-size: 40px;
+}
+.rytm .jaka{
+color: #966b72;
+font-family: Georgia, “Times New Roman”, Times, serif ;
+font-size: 40px;
+}
+.rytm .two{
+font-family:italic;
+font-size: 40px;
+}
+.rytma .cztery{
+color: #966b72;
+font-family: Georgia, “Times New Roman”, Times, serif ;
+font-size: 40px;
+}
+.rytma .jeden{
+font-family:italic;
+font-size: 40px;
+}
+.rytm .trzy{
+color: #966b72;
+font-family: Georgia, “Times New Roman”, Times, serif ;
+font-size:40px;
+}
